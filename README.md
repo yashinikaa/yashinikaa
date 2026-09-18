@@ -104,13 +104,7 @@ A simple, interactive task manager with filtering, editing and local storage.
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashinika&theme=tokyonight&hide_border=false" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashinika&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
 
 <p align="center">
 💫 Always learning, always modelling 💫
